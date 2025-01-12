@@ -1,3 +1,3 @@
-# Summative 1
+# Equation Game
 
-**Tasks 1 and 3**
+![image](https://github.com/user-attachments/assets/9eca4eb8-3f99-421c-badb-738032e2b290)
