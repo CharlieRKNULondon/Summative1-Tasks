@@ -22,7 +22,7 @@ Skills users can improve through repeatedly solving equations:
 
 ### Prerequisites
 
- **-** All version of Python 3.8 and later installed on your computer
+ **-** Any version of Python 3.8 or later installed on your computer.
  
  **-** Tkinkter (Python Library)
  
