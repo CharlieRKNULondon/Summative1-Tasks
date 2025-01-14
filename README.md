@@ -8,6 +8,18 @@ The Equation Game is a simple game, which uses tkinkter as a GUI, enabling users
 
 ## User Documentation
 
+### Game Objective
+
+This Equation Game is designed to engage users in solving math problems in an interactive way. The goal of this game is to challenge the user to solve multiplication equations by determining the missing integer.
+
+Skills users can improve through repeatedly solving equations:
+
+**-** Mental Math Skills: Practice quick calculations without using a calculator.
+
+**-** Problem Solving Abilities: Strengthen logical thinking by analyzing equations.
+
+**-** Focus and Accuracy: Encourages attention to detail by solving problems.
+
 ### Prerequisites
 
  **-** All version of Python 3.8 and later installed on your computer
@@ -22,6 +34,11 @@ The Equation Game is a simple game, which uses tkinkter as a GUI, enabling users
  4. Press **Submit** to check your answer. The game will provide feedback, either, "Correct!" or "Wrong...".
  5. If you are correct your score will be incremented by 1.
  6. If you would like to skip an equation or move to another, press the **Next Equation** button.
+
+### Troubleshooting ###
+
+**- The program is unresponsive**: Check you have Python and Tkinkter installed within user OS. If needed restart the program.
+**- Non-Numeric error:** Double-Check your input - You can only enter integers.
 
 #### Example Gameplay
 
