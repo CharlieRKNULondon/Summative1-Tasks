@@ -14,11 +14,11 @@ This Equation Game is designed to engage users in solving math problems in an in
 
 Skills users can improve through repeatedly solving equations:
 
-**-** Mental Math Skills: Practice quick calculations without using a calculator.
+**-** Mental Math Skills: practice quick calculations without using a calculator.
 
-**-** Problem Solving Abilities: Strengthen logical thinking by analyzing equations.
+**-** Problem Solving Abilities: strengthen logical thinking by analyzing equations.
 
-**-** Focus and Accuracy: Encourages attention to detail by solving problems.
+**-** Focus and Accuracy: encourages attention to detail by solving problems.
 
 ### Prerequisites
 
@@ -58,15 +58,15 @@ What the game looks like in action:
  1. ```EquationGame``` **Class**
 This utilises the features of Object Orientated Programming (OOP). The class manages the core functionality of the game and allows variables to be shared between methods whilst remaining local.
  2. **Methods**
-    **-** ```__init__(self, root)```: Initialises the game state, variables such as score and GUI setup.
+    **-** ```__init__(self, root)``` Initialises the game state, variables such as score and GUI setup.
     
-    **-** ```build_gui(self)```: Constructs the GUI using tkinkter labels, text fields and buttons.
+    **-** ```build_gui(self)``` Constructs the GUI using tkinkter labels, text fields and buttons.
     
-    **-** ```generate_equation(self)```: Generates a new equation with two random integers between 0 and 999.
+    **-** ```generate_equation(self)``` Generates a new equation with two random integers between 0 and 999.
     
-    **-** ```check_user_answer(self):```: Validates user input and checks it against the correct answer. It also updates the score and feedback based on if the user is correct.
+    **-** ```check_user_answer(self):``` Validates user input and checks it against the correct answer. It also updates the score and feedback based on if the user is correct.
     
-    **-** ```next_equation(self)```: Clears the text field, and prepares a new equation for the using.
+    **-** ```next_equation(self)``` Clears the text field, and prepares a new equation for the using.
 
 ### Code Examples
 
