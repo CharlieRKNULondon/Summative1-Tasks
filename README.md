@@ -39,8 +39,8 @@ Skills users can improve through repeatedly solving equations:
 
 ### Troubleshooting ###
 
-**- The program is unresponsive**: Check you have Python and Tkinkter installed within user OS. If needed restart the program.
-**- Non-Numeric error:** Double-Check your input - You can only enter integers.
+**- The program is unresponsive**: check you have Python and Tkinkter installed within user OS. If needed restart the program.
+**- Non-Numeric error:** double-Check your input, you can only enter integers.
 
 #### Example Gameplay
 
