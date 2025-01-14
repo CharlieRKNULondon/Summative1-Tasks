@@ -23,7 +23,9 @@ Skills users can improve through repeatedly solving equations:
 ### Prerequisites
 
  **-** All version of Python 3.8 and later installed on your computer
+ 
  **-** Tkinkter (Python Library)
+ 
  **-** Random (Python Library)
 
  ### How to Play
