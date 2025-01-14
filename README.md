@@ -40,9 +40,13 @@ What the game looks like in action:
 This utilises the features of Object Orientated Programming (OOP). The class manages the core functionality of the game and allows variables to be shared between methods whilst remaining local.
  2. **Methods**
     **-** ```__init__(self, root)```: Initialises the game state, variables such as score and GUI setup.
+    
     **-** ```build_gui(self)```: Constructs the GUI using tkinkter labels, text fields and buttons.
+    
     **-** ```generate_equation(self)```: Generates a new equation with two random integers between 0 and 999.
+    
     **-** ```check_user_answer(self):```: Validates user input and checks it against the correct answer. It also updates the score and feedback based on if the user is correct.
+    
     **-** ```next_equation(self)```: Clears the text field, and prepares a new equation for the using.
 
 ### Code Examples
