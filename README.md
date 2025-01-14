@@ -64,7 +64,9 @@ if user_guess == self.equation_number_two:
     self.user_score += 1
     self.result_text.config(text="Correct! :)")
 else:
-    self.result_text.config(text="Wrong... :(")```
+    self.result_text.config(text="Wrong... :(")
+```
+
 3. **Resetting the GUI for the Next Equation**:
 ```self.user_text_field.delete(0, tk.END)
 self.generate_equation()
