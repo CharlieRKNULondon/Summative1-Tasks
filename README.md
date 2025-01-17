@@ -67,8 +67,7 @@ After installing:
 
 Open a terminal or command prompt.
 
-Type the following command and press Enter: ```python --version
-```
+Type the following command and press Enter: ```python --version```
 
 The installed Python version will be displayed. Ensure it is 3.8 or later.
 
