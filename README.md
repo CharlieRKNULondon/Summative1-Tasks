@@ -28,6 +28,25 @@ Skills users can improve through repeatedly solving equations:
  
  **-** Random (Python Library)
 
+### How to Get an IDE
+
+#### What is an IDE?
+An Integrated Development Environment (IDE) is a software application that provides tools to write, debug, and run code. Examples include PyCharm, Visual Studio Code, or IDLE (included with Python).
+
+#### Steps to Install an IDE:
+
+#### PyCharm:
+
+Visit https://www.jetbrains.com/pycharm/ and download the Community Edition (free).
+
+Follow the installation instructions for your operating system.
+
+#### Visual Studio Code:
+
+Visit https://code.visualstudio.com/ and download VS Code.
+
+Install the Python extension from the Extensions Marketplace.
+
  ### How to Play
 
  1. Download the Python File and run the game in any IDE of your choice
