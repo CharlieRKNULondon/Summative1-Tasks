@@ -25,4 +25,4 @@ jobs:
 
       - name: Run tests
         run: |
-          python -m unittest test_FizzBuzzSolution
+          python -m unittest Test_FizzBuzzSolution
