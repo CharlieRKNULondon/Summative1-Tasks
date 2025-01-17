@@ -53,6 +53,26 @@ What the game looks like in action:
 
 ## Techical Documentation
 
+### How to Get Python and Check the Version
+
+Download and install Python:
+
+Visit the official Python website: https://www.python.org/.
+
+Download the latest version compatible with your operating system (Windows, macOS, or Linux).
+
+Follow the installation instructions for your operating system. 
+
+After installing:
+
+Open a terminal or command prompt.
+
+Type the following command and press Enter: ```python --version
+```
+
+The installed Python version will be displayed. Ensure it is 3.8 or later.
+
+
 ### Code Structure
 
  1. ```EquationGame``` **Class**
