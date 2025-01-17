@@ -106,6 +106,17 @@ This utilises the features of Object Orientated Programming (OOP). The class man
     
     **-** ```next_equation(self)``` Clears the text field, and prepares a new equation for the using.
 
+### Key Variables
+
+**-** ```self.user_score```: tracks the user's current score.
+
+**-** ```self.equation_number_one``` : the first random integer in the equation.
+
+**-** ```self.equation_number_two``` : the second random integer in the equation, this is used to check against user input to validate if it is correct.
+
+**-** ```self.equation_result```: the result of multiplying the two integers.
+
+
 ### Code Examples
 
 1. **Equation Generation**
